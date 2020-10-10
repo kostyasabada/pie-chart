@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pie-chart/static/css/main.5f361e03.chunk.css",
+    "main.js": "/pie-chart/static/js/main.3ee69cf6.chunk.js",
+    "main.js.map": "/pie-chart/static/js/main.3ee69cf6.chunk.js.map",
+    "runtime-main.js": "/pie-chart/static/js/runtime-main.651f6f9b.js",
+    "runtime-main.js.map": "/pie-chart/static/js/runtime-main.651f6f9b.js.map",
+    "static/js/2.f7c4be23.chunk.js": "/pie-chart/static/js/2.f7c4be23.chunk.js",
+    "static/js/2.f7c4be23.chunk.js.map": "/pie-chart/static/js/2.f7c4be23.chunk.js.map",
+    "index.html": "/pie-chart/index.html",
+    "precache-manifest.d914a1db100246d4f1577527bfccebc1.js": "/pie-chart/precache-manifest.d914a1db100246d4f1577527bfccebc1.js",
+    "service-worker.js": "/pie-chart/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/pie-chart/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.f7c4be23.chunk.js.LICENSE.txt": "/pie-chart/static/js/2.f7c4be23.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/pie-chart/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.651f6f9b.js",
+    "static/js/2.f7c4be23.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.3ee69cf6.chunk.js"
+  ]
+}
