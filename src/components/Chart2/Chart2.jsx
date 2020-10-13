@@ -6,6 +6,7 @@ import { Svg } from '../Svg/Svg';
 const Chart2 = ({ items }) => {
   const filteredItems = items.filter((item) => item.title && item.amount);
   let angle = 90;
+
   const amountSum = filteredItems.reduce((sum, current) => sum + +current.amount, 0);
   return (
     <>

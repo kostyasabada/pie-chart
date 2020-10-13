@@ -1,0 +1,12 @@
+.svg_pies {
+  transform: rotate(-90deg);
+  border-radius: 100%;
+  display: block;
+  position: absolute;
+  top: 0; left: 0;
+}
+
+.circle_pies {
+  fill: transparent;
+  stroke-width: 50;
+}
